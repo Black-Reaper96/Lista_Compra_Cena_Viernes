@@ -3,3 +3,4 @@ Lista de la carniceria:
 ->pollo
 ->cerdp
 ->pavo
+->chorizo

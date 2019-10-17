@@ -1,1 +1,4 @@
 Lista de la compra: 
+->vasos
+->platos
+->postre

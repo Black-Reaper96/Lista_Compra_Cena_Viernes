@@ -1,1 +1,5 @@
 Lista de la carniceria:
+->ternera
+->pollo
+->cerdp
+->pavo
